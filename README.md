@@ -7,11 +7,9 @@
 
 > 当前版本：`1.0.7` · 许可证：MIT · 适用：DSH Desktop Web UI（在 `0.2.2-rc.5` 上验证）
 
-![小梁滑动变阻器壁纸](assets/wallpaper/7.jpg)
+[![点击封面播放使用效果视频](assets/wallpaper/7.jpg)](docs/demo.mp4)
 
 ## 演示视频
-
-[![点击封面播放使用效果视频](assets/wallpaper/7.jpg)](docs/demo.mp4)
 
 [▶ 点击观看完整使用效果（docs/demo.mp4）](docs/demo.mp4)
 
