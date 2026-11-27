@@ -11,11 +11,11 @@
 
 ## 演示视频
 
+[![点击封面播放使用效果视频](assets/wallpaper/7.jpg)](docs/demo.mp4)
+
 [▶ 点击观看完整使用效果（docs/demo.mp4）](docs/demo.mp4)
 
-<video src="docs/demo.mp4" controls muted playsinline width="100%"></video>
-
-如果上面的视频标签没有内嵌播放，点击上面的链接即可在 GitHub 中打开 `docs/demo.mp4`。
+GitHub 不会内嵌仓库内的相对 MP4 播放器；点击上面的封面或链接即可打开 `docs/demo.mp4` 观看完整效果。视频文件本身已包含在仓库里。
 
 ## 它是什么
 
