@@ -7,13 +7,13 @@
 
 > 当前版本：`1.0.7` · 许可证：MIT · 适用：DSH Desktop Web UI（在 `0.2.2-rc.5` 上验证）
 
-[![点击封面播放使用效果视频](assets/wallpaper/7.jpg)](docs/demo.mp4)
+[![使用效果动图](docs/demo.gif)](docs/demo.mp4)
 
 ## 演示视频
 
-[▶ 点击观看完整使用效果（docs/demo.mp4）](docs/demo.mp4)
+[▶ 点击观看完整 18.8 秒视频（docs/demo.mp4）](docs/demo.mp4)
 
-GitHub 不会内嵌仓库内的相对 MP4 播放器；点击上面的封面或链接即可打开 `docs/demo.mp4` 观看完整效果。视频文件本身已包含在仓库里。
+上面的动图截取了前 10 秒的核心过渡（从“小梁”滑到“唯一真神”）；完整视频还包含回程和全部档位。点击动图或这里的链接即可打开完整视频。
 
 ## 它是什么
 

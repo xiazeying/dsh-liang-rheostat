@@ -35,6 +35,7 @@
     "cordis.patch.yml",
     "assets/wallpaper/*.jpg",
     "docs/demo.mp4",
+    "docs/demo.gif",
     "locale/*.json",
     "icon.svg",
     "README.md",
