@@ -1,0 +1,4 @@
+- insert:
+    - id: liang-rheostat
+      name: '@local/liang-rheostat'
+      config: {}

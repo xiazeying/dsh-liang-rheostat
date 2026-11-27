@@ -1,0 +1,55 @@
+{
+  "name": "@local/liang-rheostat",
+  "version": "1.0.7",
+  "private": true,
+  "type": "module",
+  "description": "An eight-stop Liang sliding rheostat beside the composer model selector: full-app wallpapers, cross-faded, with matching reasoning effort.",
+  "license": "MIT",
+  "author": "xiazeying",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiazeying/dsh-liang-rheostat.git"
+  },
+  "homepage": "https://github.com/xiazeying/dsh-liang-rheostat",
+  "bugs": {
+    "url": "https://github.com/xiazeying/dsh-liang-rheostat/issues"
+  },
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "dsh-plugin",
+    "wallpaper",
+    "reasoning-effort",
+    "ui"
+  ],
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./assets/*": "./assets/*",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "assets/wallpaper/*.jpg",
+    "docs/demo.mp4",
+    "locale/*.json",
+    "icon.svg",
+    "README.md",
+    "LICENSE",
+    "NOTICE.md"
+  ],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-conversation",
+        "@deepseek-ai/dsh-client-ui-model-selection"
+      ]
+    }
+  }
+}

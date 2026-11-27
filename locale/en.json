@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Liang sliding rheostat",
+    "description": "Adds an eight-stop Liang sliding rheostat to the left of the composer's model selector. Dragging snaps to a tier, cross-fades the whole app to that tier's wallpaper (two images per tier, 16 in all), and sets the current session's reasoning effort to Off, Low, High, or Max. Like the model menu, that selection is also saved as the default for new sessions, and the dial follows the session's actual effort. The wallpapers come from D:\\tmp\\梁文锋_OFF到MAX_16张壁纸 (1.jpg–16.jpg), are bundled with the plugin, and load from the local /plugins asset route. While enabled, the UI uses a dark glass palette; disabling restores it."
+  }
+}
